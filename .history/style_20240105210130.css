@@ -1,0 +1,48 @@
+body {
+  background-color: #eceee1;
+}
+
+.title {
+  text-align: center;
+}
+
+.createOrder {
+  text-align: center;
+  border-style: dashed;
+}
+
+form {
+  border: px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  border-style: solid;
+  display: block;
+}
+
+.stacked-fields {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px; /* Adjust the space between stacked fields */
+  align-items: center;
+}
+
+.small-input {
+  width: 150px; /* Adjust the width of the input fields */
+}
+
+.T {
+  border-style: dotted;
+  border-width: 5px;
+  text-align: center;
+}
+
+.s {
+  text-align: center;
+  border-style: double;
+}
+#btn {
+  color: #11c255;
+}

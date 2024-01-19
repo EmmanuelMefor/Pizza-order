@@ -1,0 +1,33 @@
+body {
+  background-color: #eceee1;
+}
+
+.createOrder {
+  text-align: center;
+  border-style: dashed;
+}
+
+form {
+  border: px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  border-style: solid;
+}
+
+#labels {
+  display: block;
+}
+
+.T {
+  border-style: dotted;
+  border-width: 5px;
+  text-align: center;
+}
+
+.s {
+  text-align: center;
+  border-style: double;
+}
